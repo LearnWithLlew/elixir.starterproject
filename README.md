@@ -4,7 +4,7 @@
 ## Install
 
 run the   
-`setup.windows.ps1`
+`install.windows.ps1`
 
 ## Running tests
 
