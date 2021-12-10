@@ -12,7 +12,7 @@ choco install intellijidea-community
 # install the intellij elixir plugin
 
 # Clone repo
-& "C:\Program Files\Git\cmd\git.exe" clone https://raw.githubusercontent.com/LearnWithLlew/elixir.starterproject.get C:\Code\elixir.starterproject
+& "C:\Program Files\Git\cmd\git.exe" clone https://github.com/LearnWithLlew/elixir.starterproject.git C:\Code\elixir.starterproject
 cd C:\Code\elixir.starterproject
 
 # Run tests
